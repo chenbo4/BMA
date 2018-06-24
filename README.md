@@ -1,1 +1,2 @@
 # This repository provides codes required for the paper "Bayesian model averaging for the X-chromosome inactivation dilemma in genetic association study".
+Currently, there are three files included. "simulating dataset.r" simulates a sample data of 100 individual and 10 SNPs, because the original Cystic Fibrosis application data can not be publicly shared due to ethical approval constraints."simulated data.txt" contains the simulated data. "BMA.r" performs frequentist and Bayesian analysis on the simulated dataset as what we do in section 4 of our paper.
